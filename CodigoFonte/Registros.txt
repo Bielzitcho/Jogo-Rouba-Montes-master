@@ -1,0 +1,7 @@
+ Partida partida = new Partida();
+        for (int i = 0; i < quantBaralhos; i++)
+        {
+            cartas.AdicionarCartas(cartasBaralho);
+        }
+        List<Cartas> BaralhoEmbaralhado = partida.EmbaralharCartas(cartasBaralho, quantBaralhos); 
+        partida.Baralho(BaralhoEmbaralhado);

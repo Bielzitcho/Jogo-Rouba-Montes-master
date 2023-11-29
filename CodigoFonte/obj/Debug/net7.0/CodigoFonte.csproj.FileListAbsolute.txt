@@ -1,0 +1,34 @@
+C:\Users\vinic\Desktop\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\bin\Debug\net7.0\CodigoFonte.exe
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\bin\Debug\net7.0\CodigoFonte.deps.json
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\bin\Debug\net7.0\CodigoFonte.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\bin\Debug\net7.0\CodigoFonte.dll
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\bin\Debug\net7.0\CodigoFonte.pdb
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.dll
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\refint\CodigoFonte.dll
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.pdb
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\CodigoFonte.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\Jogo Rouba Montes\CodigoFonte\obj\Debug\net7.0\ref\CodigoFonte.dll
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\bin\Debug\net7.0\CodigoFonte.exe
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\bin\Debug\net7.0\CodigoFonte.deps.json
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\bin\Debug\net7.0\CodigoFonte.runtimeconfig.json
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\bin\Debug\net7.0\CodigoFonte.dll
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\bin\Debug\net7.0\CodigoFonte.pdb
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.dll
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\refint\CodigoFonte.dll
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.pdb
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\CodigoFonte.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Jogo-Rouba-Montes-master\CodigoFonte\obj\Debug\net7.0\ref\CodigoFonte.dll
